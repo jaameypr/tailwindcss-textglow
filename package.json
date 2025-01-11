@@ -1,0 +1,25 @@
+{
+  "name": "tailwindcss-textglow",
+  "version": "1.0.0",
+  "description": "A Tailwind CSS v3.0+ plugin to add glow effects with customizable blur sizes and colors.",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "files": [
+    "src/*.js",
+    "src/*.d.ts",
+    "dist/"
+  ],
+  "scripts": {},
+  "repository": "https://github.com/jaameypr/tailwindcss-textglow.git",
+  "keywords": [
+    "tailwind",
+    "text",
+    "glow"
+  ],
+  "author": "jaameypr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaameypr/tailwindcss-textglow/issues"
+  },
+  "homepage": "https://github.com/jaameypr/tailwindcss-textglow#readme"
+}
