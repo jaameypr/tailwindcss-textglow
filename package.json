@@ -9,7 +9,9 @@
     "src/*.d.ts",
     "dist/"
   ],
-  "scripts": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": "https://github.com/jaameypr/tailwindcss-textglow.git",
   "keywords": [
     "tailwind",
