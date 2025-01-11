@@ -9,6 +9,12 @@
 
 ---
 
+## 🌟 Inspiration
+
+This project is inspired by [ycs77/tailwindcss-glowing](https://github.com/ycs77/tailwindcss-glowing). Special thanks to its creator for the idea of adding glowing effects to Tailwind CSS.
+
+---
+
 ## 📦 Installation
 
 Install the plugin using npm or yarn:
